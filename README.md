@@ -13,7 +13,7 @@ This repository demonstrates the use of a camera and cubemaps in OpenGL using C+
 ![Cubemaps](02_CubeMaps/Screenshot1.png)
 ![Cubemaps](02_CubeMaps/Screenshot2.png)
 
-## Video Demo
+## Watch the video
 
 [![Watch the video](01_Camera/Screenshot2.png)](https://youtu.be/BqgV6869cAs)
 
